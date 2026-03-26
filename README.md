@@ -15,7 +15,7 @@ I'm a Systems Engineering student (7th Semester). Software developer with experi
 Passionate about the video game industry, I have expanded my skills in Game Development and Game Design, building expertise in narrative design, character design, and world building. My goal is to create engaging and memorable interactive experiences within the industry.
 
 ---
-<h3 align="left">Programming languages:</h3>
+<h3 align="left">💻Programming languages:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
@@ -25,17 +25,35 @@ Passionate about the video game industry, I have expanded my skills in Game Deve
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="25"/>
 </p>
 
-<!--
-**joseflorez28/joseflorez28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🛢Databases:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+</p>
 
-Here are some ideas to get you started:
+<h3>🛠️Frameworks & Libraries:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="25"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠Certifications
+
+| Certificate | Issuer | Link |
+|---|---|---|
+| AWS Academy Graduate - Cloud Foundations | Amazon Web Services (AWS) | [View](https://www.credly.com/badges/f15727e6-fa1b-42d2-8539-f79a0fcc13a3/public_url) |
+| Game Design: Art and Concepts | California Institute of the Arts (CalArts) / Coursera | [View](https://coursera.org/share/d54de673e64e5bc420c27659fdb9422e) |
+| Database Fundamentals | Universidad EAN | [View](https://eanx.co/certificate/MNuwddqBUF) |
+| Academic IELTS Test Level C1 | IELTS | ✅ |
+
+---
+
+## 📩¡Let's connect!
+  <a href="www.linkedin.com/in/josé-flórez" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="José Flórez" height="30" width="40" /></a>
